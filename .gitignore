@@ -1,0 +1,6 @@
+venv/
+data/
+plots/
+*.keras
+__pycache__/
+*.pyc
